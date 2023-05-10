@@ -1,7 +1,7 @@
 from PIL import Image
 import os
 
-yol = "PNGs"
+yol = "PNG"
 yollar = []
 images = []
 
